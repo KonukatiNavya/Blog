@@ -1,0 +1,12 @@
+[
+    {
+        "destination": "Paris, France",
+        "description": "The City of Light draws millions of visitors every year with its unforgettable ambiance. Of course, the divine cuisine and vast art collections deserve some of the credit as well.",
+        "image": "/eiffel.jpg"
+    },
+    {
+        "destination": "Tokyo, Japan",
+        "description": "Tokyo offers a seemingly unlimited choice of entertainment, shopping, cultural attractions, and dining. The city's history can be appreciated in districts such as Asakusa and in many excellent museums, historic temples, and gardens.",
+        "image": "/Tokyo-Japan1.webp"
+    }
+]
